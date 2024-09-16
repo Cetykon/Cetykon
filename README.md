@@ -1,4 +1,4 @@
-### Hi there 👋, Jesus Aguilar-Andrade
+### Jesus Aguilar-Andrade
 #### Software Engineer Student
 Skills: Python / Java / Vb.net / HTML / Spring / React / SQL / Autodesk 3ds Max
 
