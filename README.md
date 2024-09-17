@@ -8,7 +8,7 @@ Python / Java / Vb.net / HTML / Spring / React / SQL / Autodesk 3ds Max
 <img src="https://github.com/Cetykon/Cetykon/blob/main/Aguilar-Andrade_Jesus_3dxMaxFinal.gif" width="260" />
 
 #### Work Out Webapp
-Skills Used: Java, Spring Boot, Spring Security, MariaDB, JavaScript, HTML, CSS
+Skills Used: Java, Spring Boot, Spring Security, bootstrap, MariaDB, JavaScript, HTML, CSS
 
 <img src="https://github.com/Cetykon/Cetykon/blob/main/WorkOutApp.gif" width="260" />
 
