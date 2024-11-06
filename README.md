@@ -28,15 +28,15 @@ Skills Used: Python, Flask, React, Prompt Engineering
 ### EDUCATION 
 #### B.S, Digital Media Software Engineering      
 ##### Ferris State University  
-Expected Graduation: August/2025 
-GPA: 4.0 (Fall 2018 – Spring 2019, Fall 2023 – Summer 2024) 
-Relevant Coursework: Software QA, Data Structures, Machine Learning 
-A.S, Arts and Science               
-Completion: July/2023 
+###### Expected Graduation: August/2025 
+###### GPA: 4.0 (Fall 2018 – Spring 2019, Fall 2023 – Summer 2024) 
+###### Relevant Coursework: Software QA, Data Structures, Machine Learning 
+###### A.S, Arts and Science               
+###### Completion: July/2023 
 
 ##### Grand Rapids Community College 
-GPA: 3.704 (Fall 2020 – Summer 2023) 
-Relevant Coursework: Discrete Math, Linux 1, Calculus-Based Physics 
+###### GPA: 3.704 (Fall 2020 – Summer 2023) 
+###### Relevant Coursework: Discrete Math, Linux 1, Calculus-Based Physics 
 
 #### Activities & Awards 
 ● Vex Robotics - Team Programmer & Designe.      
