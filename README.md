@@ -9,7 +9,7 @@ A recreation of the Coke Freestyle Machine interface and operations, created wit
 
 Skills Used: C#, MSSQL
 
-![image](https://github.com/user-attachments/assets/7cad39e0-7897-49a0-83db-3ca11017b82a)
+<img src="https://github.com/user-attachments/assets/7cad39e0-7897-49a0-83db-3ca11017b82a" width="350" />
 
 #### [Work Out Webapp](https://github.com/Cetykon/WorkOut)
 Workout tracker app using technologies such as MariaDB, Java, JavaScript, and Spring. 
