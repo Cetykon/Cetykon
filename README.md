@@ -50,7 +50,8 @@ Skills Used: Python, Flask, React, Prompt Engineering
 ● Vex Robotics - Team Programmer & Designe.      
 ● ArtPrize - Smart Art Competition, Top 20 Finalist                  
 ● Mis Clases en la biblioteca - Participation Certificate (2nd & 3rd grade teacher assistant)   
-● Board Game Club High School - Founder         
+● Board Game Club High School - Founder      
+● IEEE Xtream Competition - Placed 65/149 in the United States <img src="https://github.com/user-attachments/assets/f1b426ae-c634-4caf-b3fc-349b2c6bad71" width="200" />
 
 
 
