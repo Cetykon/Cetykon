@@ -14,7 +14,7 @@ Skills Used: Java, Spring Boot, Spring Security, Bootstrap, MariaDB, JavaScript,
 
 <img src="https://github.com/Cetykon/Cetykon/blob/main/WorkOutApp.gif" width="350" />
 
-#### [Coke Freestyle Machine]([https://www.cokefreestyle.com](https://github.com/Cetykon/Freestyle-Machine-Solution))
+#### [Coke Freestyle Machine](https://github.com/Cetykon/Freestyle-Machine-Solution)
 A recreation of the Coke Freestyle Machine interface and operations, created with the purpose of learning the .NET framework. This application simulates the user experience of selecting and customizing drinks, showcasing a touchscreen UI and backend functionality for drink mixing and selection.
 
 Skills Used: C#, MSSQL
