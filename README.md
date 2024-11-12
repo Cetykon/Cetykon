@@ -4,10 +4,14 @@
 Python / Java / Vb.net / HTML / Spring / React / SQL / Autodesk 3ds Max
 
 ### Work Examples:
-#### Autodesk 3ds Max (3D Modeling & Animation)
-<img src="https://github.com/Cetykon/Cetykon/blob/main/Aguilar-Andrade_Jesus_3dxMaxFinal.gif" width="350" />
+#### [Coke Freestyle Machine]([https://www.cokefreestyle.com](https://github.com/Cetykon/Freestyle-Machine-Solution))
+A recreation of the Coke Freestyle Machine interface and operations, created with the purpose of learning the .NET framework. This application simulates the user experience of selecting and customizing drinks, showcasing a touchscreen UI and backend functionality for drink mixing and selection.
 
-#### Work Out Webapp
+Skills Used: C#, MSSQL
+
+![image](https://github.com/user-attachments/assets/7cad39e0-7897-49a0-83db-3ca11017b82a)
+
+#### [Work Out Webapp](https://github.com/Cetykon/WorkOut)
 Workout tracker app using technologies such as MariaDB, Java, JavaScript, and Spring. 
 Currently, users can add different workouts to plan their weekly workout routine, as well as create 
 custom ones. A total of 10 CRUD APIs exist to give the front end its functionality.
@@ -16,7 +20,7 @@ Skills Used: Java, Spring Boot, Spring Security, Bootstrap, MariaDB, JavaScript,
 
 <img src="https://github.com/Cetykon/Cetykon/blob/main/WorkOutApp.gif" width="350" />
 
-#### IEP Meeting Webapp
+#### [IEP Meeting Webapp](https://github.com/powerm17/IEP_Chatbot_Frontend)
 Along with two teammates, I developed an application using GitHub for version management and an 
 iterative approach. The chatbot simulates an IEP conversation between a teacher and a parent. The 
 front end, built with React, connects to two Python APIs that interface with the GPT API. 
@@ -24,6 +28,9 @@ front end, built with React, connects to two Python APIs that interface with the
 Skills Used: Python, Flask, React, Prompt Engineering
 
 <img src="https://github.com/Cetykon/Cetykon/blob/main/IEPMeeting.gif" width="350" />
+
+#### Autodesk 3ds Max (3D Modeling & Animation)
+<img src="https://github.com/Cetykon/Cetykon/blob/main/Aguilar-Andrade_Jesus_3dxMaxFinal.gif" width="350" />
 
 ### EDUCATION 
 #### B.S, Digital Media Software Engineering      
