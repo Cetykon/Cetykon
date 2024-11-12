@@ -5,13 +5,6 @@ Python / Java / Vb.net / HTML / Spring / React / SQL / Autodesk 3ds Max
 
 ### Work Examples:
 
-#### [Coke Freestyle Machine]([https://www.cokefreestyle.com](https://github.com/Cetykon/Freestyle-Machine-Solution))
-A recreation of the Coke Freestyle Machine interface and operations, created with the purpose of learning the .NET framework. This application simulates the user experience of selecting and customizing drinks, showcasing a touchscreen UI and backend functionality for drink mixing and selection.
-
-Skills Used: C#, MSSQL
-
-<img src="https://github.com/user-attachments/assets/7cad39e0-7897-49a0-83db-3ca11017b82a" width="350" />
-
 #### [Work Out Webapp](https://github.com/Cetykon/WorkOut)
 Workout tracker app using technologies such as MariaDB, Java, JavaScript, and Spring. 
 Currently, users can add different workouts to plan their weekly workout routine, as well as create 
