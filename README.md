@@ -52,7 +52,7 @@ Skills Used: Python, Flask, React, Prompt Engineering
 ● Mis Clases en la biblioteca - Participation Certificate (2nd & 3rd grade teacher assistant)   
 ● Board Game Club High School - Founder      
 ● IEEEXtreme Competition 2024 - Placed 65/149 in the United States
-  <img src="https://github.com/user-attachments/assets/f1b426ae-c634-4caf-b3fc-349b2c6bad71" width="600" />
+  <img src="https://github.com/user-attachments/assets/f1b426ae-c634-4caf-b3fc-349b2c6bad71" width="700" />
 
 
 
