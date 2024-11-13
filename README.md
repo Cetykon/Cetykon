@@ -3,6 +3,7 @@
 ### Skills:
 Python / Java / Vb.net / HTML / Spring / React / SQL / Autodesk 3ds Max
 
+---
 ### Work Examples:
 
 #### [Coke Freestyle Machine](https://github.com/Cetykon/Freestyle-Machine-Solution)
@@ -33,6 +34,7 @@ Skills Used: Python, Flask, React, Prompt Engineering
 #### Autodesk 3ds Max (3D Modeling & Animation)
 <img src="https://github.com/Cetykon/Cetykon/blob/main/Aguilar-Andrade_Jesus_3dxMaxFinal.gif" width="350" />
 
+---
 ### EDUCATION 
 #### B.S, Digital Media Software Engineering      
 ##### Ferris State University  
@@ -46,13 +48,17 @@ Skills Used: Python, Flask, React, Prompt Engineering
 ###### GPA: 3.704 (Fall 2020 – Summer 2023) 
 ###### Relevant Coursework: Discrete Math, Linux 1, Calculus-Based Physics 
 
-#### Activities & Awards 
-● Vex Robotics - Team Programmer & Designe.      
-● ArtPrize - Smart Art Competition, Top 20 Finalist                  
-● Mis Clases en la biblioteca - Participation Certificate (2nd & 3rd grade teacher assistant)   
-● Board Game Club High School - Founder      
-● IEEEXtreme Competition 2024 - Placed 65/149 in the United States
-  <img src="https://github.com/user-attachments/assets/f1b426ae-c634-4caf-b3fc-349b2c6bad71" width="700" />
+---
+#### Activities & Awards
+- **Vex Robotics** - Team Programmer & Designer  
+- **ArtPrize - Smart Art Competition** - Top 20 Finalist  
+- **Mis Clases en la biblioteca** - Participation Certificate (2nd & 3rd grade teacher assistant)  
+- **Board Game Club High School** - Founder  
+- **IEEEXtreme Competition 2024** - Placed 65/149 in the United States  
+  <br>
+  <img src="https://github.com/user-attachments/assets/f1b426ae-c634-4caf-b3fc-349b2c6bad71" width="500" alt="IEEEXtreme Competition participation image" />
+
+--- 
 
 
 
