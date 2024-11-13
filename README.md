@@ -57,7 +57,7 @@ The lighting and shadows add depth, emphasizing the quality and realism of the m
 - **Relevant Coursework:** Discrete Math, Linux 1, Calculus-Based Physics
 
 --
-#### Activities & Awards
+### Activities & Awards
 - **Vex Robotics** - Team Programmer & Designer  
 - **ArtPrize - Smart Art Competition** - Top 20 Finalist  
 - **Mis Clases en la biblioteca** - Participation Certificate (2nd & 3rd grade teacher assistant)  
