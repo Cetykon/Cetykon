@@ -34,10 +34,11 @@ Skills Used: Python, Flask, React, Prompt Engineering
 <img src="https://github.com/Cetykon/Cetykon/blob/main/IEPMeeting.gif" width="350" />
 
 #### Autodesk 3ds Max (3D Modeling & Animation)
-This render shows off a beautifully crafted chess setup, complete with a detailed board, pieces, 
-and a classic pedestal table with two chairs. Every element has been carefully textured, and 
-the scene comes to life with smooth camera movements that let you see the chess set from all angles. 
-The lighting and shadows create depth, really bringing out the quality and realism of the model and textures.
+In 3ds Max, I created a meticulously crafted chess setup featuring a detailed board, pieces, 
+and a classic pedestal table with two chairs. Each element was carefully textured, 
+and I used smooth camera movements to animate the scene, showcasing the chess set from all angles. 
+The lighting and shadows add depth, highlighting the quality and realism of the model and textures, 
+making the scene feel dynamic and immersive.
 
 <img src="https://github.com/Cetykon/Cetykon/blob/main/Aguilar-Andrade_Jesus_3dxMaxFinal.gif" width="350" />
 
