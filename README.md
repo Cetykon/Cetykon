@@ -56,7 +56,7 @@ Skills Used: Python, Flask, React, Prompt Engineering
 - **Board Game Club High School** - Founder  
 - **IEEEXtreme Competition 2024** - Placed 65/149 in the United States  
   <br>
-  <img src="https://github.com/user-attachments/assets/f1b426ae-c634-4caf-b3fc-349b2c6bad71" width="500" alt="IEEEXtreme Competition participation image" />
+  <img src="https://github.com/user-attachments/assets/f1b426ae-c634-4caf-b3fc-349b2c6bad71" width="700" alt="IEEEXtreme Competition participation image" />
 
 --- 
 
