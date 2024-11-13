@@ -7,7 +7,9 @@ Python / Java / Vb.net / HTML / Spring / React / SQL / Autodesk 3ds Max
 ### Work Examples:
 
 #### [Coke Freestyle Machine](https://github.com/Cetykon/Freestyle-Machine-Solution)
-A recreation of the Coke Freestyle Machine interface and operations, created with the purpose of learning the .NET framework. This application simulates the user experience of selecting and customizing drinks, showcasing a touchscreen UI and backend functionality for drink mixing and selection.
+A recreation of the Coke Freestyle Machine interface and operations, created with the purpose of 
+learning the .NET framework. This application simulates the user experience of selecting and customizing drinks, 
+showcasing a touchscreen UI and backend functionality for drink mixing and selection.
 
 Skills Used: C#, MSSQL, .NET 
 
@@ -41,17 +43,18 @@ The lighting and shadows add depth, emphasizing the quality and realism of the m
 
 ---
 ### EDUCATION 
-#### B.S, Digital Media Software Engineering      
-##### Ferris State University  
-###### Expected Graduation: August/2025 
-###### GPA: 4.0 (Fall 2018 – Spring 2019, Fall 2023 – Summer 2024) 
-###### Relevant Coursework: Software QA, Data Structures, Machine Learning 
-###### A.S, Arts and Science               
-###### Completion: July/2023 
 
-##### Grand Rapids Community College 
-###### GPA: 3.704 (Fall 2020 – Summer 2023) 
-###### Relevant Coursework: Discrete Math, Linux 1, Calculus-Based Physics 
+#### Bachelor of Science, Digital Media Software Engineering  
+**Ferris State University**  
+- **Expected Graduation:** August 2025  
+- **GPA:** 4.0 (Fall 2018 – Spring 2019, Fall 2023 – Summer 2024)  
+- **Relevant Coursework:** Software QA, Data Structures, Machine Learning  
+
+#### Associate of Science, Arts and Science  
+**Grand Rapids Community College**  
+- **Completion:** July 2023  
+- **GPA:** 3.704 (Fall 2020 – Summer 2023)  
+- **Relevant Coursework:** Discrete Math, Linux 1, Calculus-Based Physics  
 
 ---
 #### Activities & Awards
