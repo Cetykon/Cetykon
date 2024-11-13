@@ -56,7 +56,7 @@ The lighting and shadows add depth, emphasizing the quality and realism of the m
 - **GPA:** 3.704 (Fall 2020 – Summer 2023)  
 - **Relevant Coursework:** Discrete Math, Linux 1, Calculus-Based Physics
 
---
+---
 ### Activities & Awards
 - **Vex Robotics** - Team Programmer & Designer  
 - **ArtPrize - Smart Art Competition** - Top 20 Finalist  
