@@ -15,7 +15,7 @@ Skills Used: C#, MSSQL, .NET
 
 <img src="https://github.com/user-attachments/assets/7cad39e0-7897-49a0-83db-3ca11017b82a" width="350" />
 
-#### [Work Out Webapp](https://github.com/Cetykon/WorkOut)
+#### [Workout Webapp](https://github.com/Cetykon/WorkOut)
 Workout tracker app using technologies such as MariaDB, Java, JavaScript, and Spring. 
 Currently, users can add different workouts to plan their weekly workout routine, as well as create 
 custom ones. A total of 10 CRUD APIs exist to give the front end its functionality.
