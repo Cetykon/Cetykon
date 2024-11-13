@@ -44,19 +44,19 @@ The lighting and shadows add depth, emphasizing the quality and realism of the m
 ---
 ### EDUCATION 
 
-#### Bachelor of Science, Digital Media Software Engineering  
+#### **B.S. in Digital Media Software Engineering**  
 **Ferris State University**  
 - **Expected Graduation:** August 2025  
 - **GPA:** 4.0 (Fall 2018 – Spring 2019, Fall 2023 – Summer 2024)  
 - **Relevant Coursework:** Software QA, Data Structures, Machine Learning  
 
-#### Associate of Science, Arts and Science  
+#### **A.S. in Arts and Science**  
 **Grand Rapids Community College**  
 - **Completion:** July 2023  
 - **GPA:** 3.704 (Fall 2020 – Summer 2023)  
-- **Relevant Coursework:** Discrete Math, Linux 1, Calculus-Based Physics  
+- **Relevant Coursework:** Discrete Math, Linux 1, Calculus-Based Physics
 
----
+--
 #### Activities & Awards
 - **Vex Robotics** - Team Programmer & Designer  
 - **ArtPrize - Smart Art Competition** - Top 20 Finalist  
