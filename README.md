@@ -13,7 +13,7 @@ showcasing a touchscreen UI and backend functionality for drink mixing and selec
 
 Skills Used: C#, MSSQL, .NET 
 
-<img src="https://github.com/user-attachments/assets/7cad39e0-7897-49a0-83db-3ca11017b82a" width="350" />
+<img src="https://github.com/user-attachments/assets/ed838ef7-9f3a-4cc5-a949-68c789bfde6d" width="350" />
 
 #### [Workout Webapp](https://github.com/Cetykon/WorkOut)
 Workout tracker app using technologies such as MariaDB, Java, JavaScript, and Spring. 
