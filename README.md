@@ -44,7 +44,7 @@ making the scene feel dynamic and immersive.
 
 ---
 ## Personal Guides:
-#### [Self Hosting React App on Raspbian Linux)](https://github.com/Cetykon/Deploy-React-App-On-Raspbian-Linux/tree/main)
+#### [Self Hosting React App on Raspbian (Linux)](https://github.com/Cetykon/Deploy-React-App-On-Raspbian-Linux/tree/main)
 
 ---
 ### EDUCATION 
