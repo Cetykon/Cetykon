@@ -43,6 +43,10 @@ making the scene feel dynamic and immersive.
 <img src="https://github.com/Cetykon/Cetykon/blob/main/Aguilar-Andrade_Jesus_3dxMaxFinal.gif" width="350" />
 
 ---
+## Personal Guides:
+#### [Self Hosting React App on Raspbian Linux)](https://github.com/Cetykon/Deploy-React-App-On-Raspbian-Linux/tree/main)
+
+---
 ### EDUCATION 
 
 #### **B.S. in Digital Media Software Engineering**  
