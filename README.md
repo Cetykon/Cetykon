@@ -77,11 +77,9 @@ making the scene feel dynamic and immersive.
 ### Activities & Awards
 - **Vex Robotics** - Team Programmer & Designer  
 - **ArtPrize - Smart Art Competition** - Top 20 Finalist  
-- **Mis Clases en la biblioteca** - Participation Certificate (2nd & 3rd grade teacher assistant)  
+- **Teacher Assistant** - 2nd & 3rd grade 
 - **Board Game Club High School** - Founder  
-- **IEEEXtreme Competition 2024** - Placed 65/149 in the United States  
-  <br>
-  <img src="https://github.com/user-attachments/assets/f1b426ae-c634-4caf-b3fc-349b2c6bad71" width="700" alt="IEEEXtreme Competition participation image" />
+- **IEEEXtreme Competition 2024** - Rank 65/149 in the United States  
 
 --- 
 
