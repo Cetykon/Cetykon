@@ -12,7 +12,7 @@ It streamlines inventory management, reservations, and account management for bo
 Built using Maven Spring for the backend and secured with Spring Security, using JWT tokens and password 
 encryption, it leverages a MariaDB database for data storage and React.js for the frontend.
 
-Skills Used: JS, Java, MariaDB, SQL, Spring/SpringSecurity, React  
+Skills Used: JS, Java, MariaDB, SQL, Spring, React  
 
 <img src="https://github.com/user-attachments/assets/ed838ef7-9f3a-4cc5-a949-68c789bfde6d" width="350" />
 
