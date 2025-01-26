@@ -6,6 +6,18 @@ Python / Java / C# / Vb.net / HTML / Spring / React / SQL / Autodesk 3ds Max
 ---
 ### Work Examples:
 
+#### [TDMP Media Scheduling System](https://github.com/FerrisReservationTool/tdmp-media-frontend)
+The TDMP Media Scheduling System is a web application designed to manage media production equipment rentals. 
+It streamlines inventory management, reservations, and account management for both staff and students. 
+Built using Maven Spring for the backend and secured with Spring Security, using JWT tokens and password 
+encryption, it leverages a MariaDB database for data storage and React.js for the frontend.
+
+Skills Used: JS, Java, MariaDB, SQL, Spring/SpringSecurity, React  
+
+<img src="https://github.com/user-attachments/assets/ed838ef7-9f3a-4cc5-a949-68c789bfde6d" width="350" />
+
+### Work Examples:
+
 #### [Coke Freestyle Machine](https://github.com/Cetykon/Freestyle-Machine-Solution)
 A recreation of the Coke Freestyle Machine interface and operations, created with the purpose of 
 learning the .NET framework. This application simulates the user experience of selecting and customizing drinks, 
