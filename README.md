@@ -38,7 +38,8 @@ Skills Used: Java, Spring Boot, Spring Security, Bootstrap, MariaDB, JavaScript,
 <img src="https://github.com/Cetykon/Cetykon/blob/main/WorkOutApp.gif" width="600" />
 
 #### [IEP Meeting Webapp](https://github.com/powerm17/IEP_Chatbot_Frontend)
-The chatbot simulates an IEP conversation between a teacher and a parent. The 
+The chatbot simulates an IEP conversation between a teacher and a parent. 
+Parent personality, and meeting reason are paramater that can be choosen. The 
 front end, built with React, connects to two Python APIs that interface with the GPT API. 
 
 Skills Used: Python, Flask, React, Prompt Engineering
