@@ -53,7 +53,7 @@ and I used smooth camera movements to animate the scene, showcasing the chess se
 The lighting and shadows add depth, highlighting the quality and realism of the model and textures, 
 making the scene feel dynamic and immersive.
 
-<img src="https://github.com/Cetykon/Cetykon/blob/main/Aguilar-Andrade_Jesus_3dxMaxFinal.gif" width="350" />
+<img src="https://github.com/user-attachments/assets/7b96075c-eb61-4d2b-aacc-3e370fd52169" width="350" />
 
 ---
 ## Personal Guides:
