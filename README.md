@@ -35,7 +35,7 @@ custom ones. A total of 10 CRUD APIs exist to give the front end its functionali
 
 Skills Used: Java, Spring Boot, Spring Security, Bootstrap, MariaDB, JavaScript, HTML, CSS
 
-<img src="https://github.com/Cetykon/Cetykon/blob/main/WorkOutApp.gif" width="350" />
+<img src="https://github.com/Cetykon/Cetykon/blob/main/WorkOutApp.gif" width="600" />
 
 #### [IEP Meeting Webapp](https://github.com/powerm17/IEP_Chatbot_Frontend)
 Along with two teammates, I developed an application using GitHub for version management and an 
@@ -44,7 +44,7 @@ front end, built with React, connects to two Python APIs that interface with the
 
 Skills Used: Python, Flask, React, Prompt Engineering
 
-<img src="https://github.com/Cetykon/Cetykon/blob/main/IEPMeeting.gif" width="350" />
+<img src="https://github.com/Cetykon/Cetykon/blob/main/IEPMeeting.gif" width="600" />
 
 #### Autodesk 3ds Max (3D Modeling & Animation)
 In 3ds Max, I created a meticulously crafted chess setup featuring a detailed board, pieces, 
