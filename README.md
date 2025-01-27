@@ -14,7 +14,7 @@ encryption, it leverages a MariaDB database for data storage and React.js for th
 
 Skills Used: JS, Java, MariaDB, SQL, Spring, React  
 
-<img src="https://github.com/user-attachments/assets/eb3ba40a-a335-40e0-882a-47ccffb88161" width="750" />
+<img src="https://github.com/user-attachments/assets/eb256d0f-2352-4fe9-852f-b37f9cffecb9" width="750" />
 
 ### Work Examples:
 
