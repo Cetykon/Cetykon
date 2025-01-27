@@ -31,7 +31,7 @@ Skills Used: C#, MSSQL, .NET
 Workout tracker app using technologies such as MariaDB, Java, JavaScript, and Spring. 
 Currently, users can add different workouts to plan their weekly workout routine, as well as create 
 custom ones. A total of 10 CRUD APIs exist to give the front end its functionality.
-##### (NOTICE: Currently, the system is being updated to use NoSQL and implement JSPs for modularity.)
+##### (NOTICE: Currently, the system is being updated to use NoSQL and JSPs have been implemented for modularity.)
 
 Skills Used: Java, Spring Boot, Spring Security, Bootstrap, MariaDB, JavaScript, HTML, CSS
 
