@@ -16,8 +16,6 @@ Skills Used: JS, Java, MariaDB, SQL, Spring, React
 
 <img src="https://github.com/user-attachments/assets/a5a903b3-9e59-4f5d-bffe-1deecf6e8ed4" width="750" />
 
-### Work Examples:
-
 #### [Coke Freestyle Machine](https://github.com/Cetykon/Freestyle-Machine-Solution)
 A recreation of the Coke Freestyle Machine interface and operations, created with the purpose of 
 learning the .NET framework. This application simulates the user experience of selecting and customizing drinks, 
