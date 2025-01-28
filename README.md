@@ -35,6 +35,16 @@ Skills Used: Java, Spring Boot, Spring Security, Bootstrap, MariaDB, JavaScript,
 
 <img src="https://github.com/Cetykon/Cetykon/blob/main/WorkOutApp.gif" width="600" />
 
+#### [Book Recommendations App](https://github.com/Cetykon/KNN-Book-Recommendation)
+Using the KNN Machine Learning algorithm, my two teammates and I are creating a book recommendation app. 
+I personally oversee the back end, which is entirely built in Python. 
+The back end receives a list of books the user has read to provide recommendations for similar books. 
+
+Skills Used: Python, Flask, React, ML
+
+<img src="https://github.com/user-attachments/assets/8f78f0ed-fe68-4a4e-85d0-ac6569272f53" width="600" />
+
+
 #### [IEP Meeting Webapp](https://github.com/powerm17/IEP_Chatbot_Frontend)
 The chatbot simulates an IEP conversation between a teacher and a parent. 
 Parent personality, and meeting reason are paramater that can be choosen. The 
