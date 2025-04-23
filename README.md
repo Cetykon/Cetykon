@@ -83,13 +83,37 @@ making the scene feel dynamic and immersive.
 - **Relevant Coursework:** Discrete Math, Linux 1, Calculus-Based Physics
 
 ---
-### Activities & Awards
-- **Vex Robotics** - Team Programmer & Designer  
-- **ArtPrize - Smart Art Competition** - Top 20 Finalist  
-- **Teacher Assistant** - 2nd & 3rd grade 
-- **Board Game Club High School** - Founder  
-- **IEEEXtreme Competition 2024** - Rank 65/149 in the United States  
 
+### Activities & Awards
+
+- **VEX Robotics** – Team Programmer & Designer  
+  *2018–2019*  
+  Participated in competitive robotics, contributing to both as the programmer and the design.
+
+- **ArtPrize – Smart Art Competition** – Top 20 Finalist  
+  *2018*  
+  Recognized among the top 20 finalists in a clean energy art competition.
+
+- **Teacher Assistant – 2nd & 3rd Grade (Mis Clases en la Biblioteca)** – Participation Certificate  
+  *2018–2019*  
+  Volunteered during summer school sessions in Michuacan Mexico, teaching students and helping them understand the material.
+
+- **Board Game Club (High School)** – Founder & Leader  
+  *2017–2020*  
+  Founded a high school club to expand the clubs that where availble to students, so they could foster relationships after school. 
+
+- **National Honor Society** – Member  
+  *2018–2020*  
+  Selected for academic excellence, leadership, and community service.
+
+- **IEEEXtreme Programming Competition** – Participant  
+  *October 2024 (Remote)*  
+  In a three-person team where only two members competed, placed 65th out of 149 teams in the United States.
+
+- **Catholic Youth Group – “Hechos Para El Cielo”** – Secretary  
+  *August 2024 – Present | Grand Rapids, Michigan*  
+  Founding member of a youth-led Catholic group with 19+ members. Responsible for bookkeeping, organizing events, and teaching faith-based lessons. Actively working to expand the group to other churches in the area.
+  
 --- 
 
 
