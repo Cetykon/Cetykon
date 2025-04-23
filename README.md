@@ -6,7 +6,7 @@ Python / Java / C# / Vb.net / HTML / Spring / React / SQL / Autodesk 3ds Max
 ---
 ### Work Examples:
 
-#### [TDMP Media Scheduling System](https://github.com/FerrisReservationTool/tdmp-media-frontend)
+#### [TDMP Media Scheduling System](https://tdmpreservations.netlify.app/)
 The TDMP Media Scheduling System is a web application designed to manage media production equipment rentals. 
 It streamlines inventory management, reservations, and account management for both staff and students. 
 Built using Maven Spring for the backend and secured with Spring Security, using JWT tokens and password 
