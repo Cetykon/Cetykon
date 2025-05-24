@@ -16,6 +16,18 @@ Skills Used: JS, Java, MariaDB, SQL, Spring, React
 
 <img src="https://github.com/user-attachments/assets/a5a903b3-9e59-4f5d-bffe-1deecf6e8ed4" width="750" />
 
+#### [Video Coach](#private-repo "Sorry, this repository is private. Please contact the author if interested.")
+Leveraging computer vision and modular design, I developed a real-time exercise coaching system that 
+processes posture detection (front/left/right) and delivers stage-specific feedback. The architecture 
+implements sequential classification (position → exercise) with a singleton-driven UI and factory 
+patterns that dynamically adjust exercise tracking logic - including repetition counting and 
+conditional triggers that control the start/stop functionality of the cooldown timer. This approach 
+maintains precise form monitoring while allowing for flexible workout customization through its adaptable pipeline.
+
+Skills Used: Python, OpenCV, Object-Oriented Design, Design Patterns, Performance Optimization
+
+<img src="https://github.com/user-attachments/assets/0411e53e-83dc-4dc9-bbe0-69deb5e32fac" width="500" />
+
 #### [Coke Freestyle Machine](https://github.com/Cetykon/Freestyle-Machine-Solution)
 A recreation of the Coke Freestyle Machine interface and operations, created with the purpose of 
 learning the .NET framework. This application simulates the user experience of selecting and customizing drinks, 
