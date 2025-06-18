@@ -6,7 +6,7 @@ Python / Java / C# / Vb.net / HTML / Spring / React / SQL / Autodesk 3ds Max
 ---
 ### Work Examples:
 
-#### [TDMP Media Scheduling System](https://tdmpreservations.netlify.app/) (Deployment Link)
+#### [TDMP Media Scheduling System (Deployment Link)](https://tdmpreservations.netlify.app/) 
 The TDMP Media Scheduling System is a web application designed to manage media production equipment rentals. 
 It streamlines inventory management, reservations, and account management for both staff and students. 
 Built using Maven Spring for the backend and secured with Spring Security, using JWT tokens and password 
@@ -16,7 +16,7 @@ Skills Used: JS, Java, MariaDB, SQL, Spring, React
 
 <img src="https://github.com/user-attachments/assets/a5a903b3-9e59-4f5d-bffe-1deecf6e8ed4" width="750" />
 
-#### [Video Coach](#private-repo "Sorry, this repository is private. Please contact the author if interested.") (Repository is private. Contact me if interested.)
+#### [Video Coach (Repository is private. Contact me if interested.)](#private-repo "Sorry, this repository is private. Please contact the author if interested.")
 Leveraging computer vision and modular design, I developed a real-time exercise coaching system that 
 processes posture detection and delivers corrective measures. The architecture 
 implements sequential classification (position (front/left/right) → exercise) with a singleton-driven UI and factory 
@@ -28,7 +28,7 @@ Skills Used: Python, OpenCV, Object-Oriented Design, Design Patterns, Performanc
 
 <img src="https://github.com/user-attachments/assets/0411e53e-83dc-4dc9-bbe0-69deb5e32fac" width="500" />
 
-#### [Coke Freestyle Machine](https://github.com/Cetykon/Freestyle-Machine-Solution) (Repo Link)
+#### [Coke Freestyle Machine (Repo Link)](https://github.com/Cetykon/Freestyle-Machine-Solution) 
 A recreation of the Coke Freestyle Machine interface and operations, created with the purpose of 
 learning the .NET framework. This application simulates the user experience of selecting and customizing drinks, 
 showcasing a touchscreen UI and backend functionality for drink mixing and selection.
@@ -37,7 +37,7 @@ Skills Used: C#, MSSQL, .NET
 
 <img src="https://github.com/user-attachments/assets/005b3ea3-2ffd-46d0-b3bd-3f95fed75604" width="500" />
 
-#### [Workout Webapp](https://github.com/Cetykon/WorkOut) (Repo Link)
+#### [Workout Webapp (Repo Link)](https://github.com/Cetykon/WorkOut) 
 Workout tracker app using technologies such as MariaDB, Java, JavaScript, and Spring. 
 Currently, users can add different workouts to plan their weekly workout routine, as well as create 
 custom ones. A total of 10 CRUD APIs exist to give the front end its functionality.
@@ -47,7 +47,7 @@ Skills Used: Java, Spring Boot, Spring Security, Bootstrap, MariaDB, JavaScript,
 
 <img src="https://github.com/Cetykon/Cetykon/blob/main/WorkOutApp.gif" width="600" />
 
-#### [Book Recommendations App](https://github.com/Cetykon/KNN-Book-Recommendation) (Repo Link)
+#### [Book Recommendations App (Repo Link)](https://github.com/Cetykon/KNN-Book-Recommendation) 
 Using the KNN Machine Learning algorithm, my two teammates and I are creating a book recommendation app. 
 I personally oversee the back end, which is entirely built in Python. 
 The back end receives a list of books the user has read to provide recommendations for similar books. 
@@ -57,7 +57,7 @@ Skills Used: Python, Flask, React, ML
 <img src="https://github.com/user-attachments/assets/8f78f0ed-fe68-4a4e-85d0-ac6569272f53" width="600" />
 
 
-#### [IEP Meeting Webapp](https://github.com/powerm17/IEP_Chatbot_Frontend) (Repo Link)
+#### [IEP Meeting Webapp (Repo Link)](https://github.com/powerm17/IEP_Chatbot_Frontend) 
 The chatbot simulates an IEP conversation between a teacher and a parent. 
 Parent personality, and meeting reason are paramater that can be choosen. The 
 front end, built with React, connects to two Python APIs that interface with the GPT API. 
