@@ -16,7 +16,7 @@ Skills Used: JS, Java, MariaDB, SQL, Spring, React
 
 <img src="https://github.com/user-attachments/assets/a5a903b3-9e59-4f5d-bffe-1deecf6e8ed4" width="750" />
 
-#### [Video Coach (Repository is private. Contact me if interested.)](#private-repo "Sorry, this repository is private. Please contact the author if interested.")
+#### [Video Coach (Private Repo, Contact me if interested.)](#private-repo "Sorry, this repository is private. Please contact the author if interested.")
 Leveraging computer vision and modular design, I developed a real-time exercise coaching system that 
 processes posture detection and delivers corrective measures. The architecture 
 implements sequential classification (position (front/left/right) → exercise) with a singleton-driven UI and factory 
